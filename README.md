@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating clean code (and the occasional bugs 😁) since 2016.  <br>📚 I'm currently learning more about React Native and Compose Multiplatform to build shared experiences across Android and iOS.  <br>🎯 Goals: Keep pushing the limits of Android architecture and mobile development in general, contribute to open source, and build apps that actually make people’s lives easier.  <br>🧩 Tech I love: Kotlin • Coroutines • Flow • Jetpack Compose • SDK Development • Dagger/Hilt • CI/CD Automation • Multithreading Environments<br>🎲 Fun fact: When I’m not coding, you’ll probably find me playing football, video games or perfecting a new recipe.</p>
+<p align="left">✨ Creating clean code (and occasional bugs 😁) since 2016.  <br>📚 I'm currently learning more about React Native and Compose Multiplatform to build shared experiences across Android and iOS.  <br>🎯 Goals: Keep pushing the limits of Android architecture and mobile development in general, contribute to open source, and build apps that actually make people’s lives easier.  <br>🧩 Tech I love: Kotlin • Coroutines • Flow • Jetpack Compose • SDK Development • Dagger/Hilt • CI/CD Automation • Multithreading Environments<br>🎲 Fun fact: When I’m not coding, you’ll probably find me playing football, video games or perfecting a new recipe.</p>
 
 ###
 
